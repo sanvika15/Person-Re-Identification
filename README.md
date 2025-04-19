@@ -29,7 +29,7 @@ This is achieved using **Triplet Loss**, which trains the model on samples consi
 ### 📌 Sample Triplet:
 
 <p align="center">
-  <img src="images/sample_triplet.png" alt="Triplet Sample" width="600"/>
+  <img src="sample_triplet.png" alt="Triplet Sample" width="600"/>
 </p>
 
 Each triplet helps the model **learn by comparison**:  
@@ -40,7 +40,7 @@ Each triplet helps the model **learn by comparison**:
 ## 🔄 Working Pipeline
 
 <p align="center">
-  <img src="images/pipeline.png" alt="Pipeline Flow" width="800"/>
+  <img src="pipeline.png" alt="Pipeline Flow" width="800"/>
 </p>
 
 ### 🔍 Step-by-Step Explanation:
@@ -84,7 +84,7 @@ Each triplet helps the model **learn by comparison**:
 - 🎯 **Loss Function**: TripletMarginLoss
 
 <p align="center">
-  <img src="images/model_architecture.png" alt="Model Architecture" width="600"/>
+  <img src="model_architecture.png" alt="Model Architecture" width="600"/>
 </p>
 
 ---
